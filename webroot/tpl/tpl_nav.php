@@ -18,7 +18,7 @@ function addMenu($act, $id, $link, $name, $c) {
 		<span class="icon-bar"></span>
 		<span class="icon-bar"></span>
 	    </button>
-	    <a class="navbar-brand" href="/"><img style="margin-top: -7px;" src='img/brave.png'></a>
+	    <a class="navbar-brand" href="/"><img style="margin-top: -7px;" src='img/lsw.png'></a>
 	</div>
 
 	<div class="navbar-collapse collapse navbar-inverse-collapse navbar-right">

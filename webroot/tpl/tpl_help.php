@@ -6,7 +6,7 @@
     <h3>Components</h3>
     <ul class="list-group">
 	<li class="list-group-item">
-	    The Brave Intel Map can be divided into three major components:
+	    The Lone Star Warriors Intel Map can be divided into three major components:
 	    <ul>
 		<li>Navigiation bar at the top</li>
 		<li>Map view at the left</li>
@@ -22,7 +22,7 @@
 	    <h6>Polling Indicator</h6>
 	    The polling indicator tells you that your map is successfully keeping its data up-to-date, it should almost always show <label class="label label-success">OK</label>. The appearance of <label class="label label-danger">Failed</label> indicates a problem, either wait some time (e.g. server maintenance going on) or try reloading the page.
 	    <h6>Uploader Counter</h6>
-	    The uploader counter tells you how many people are running the <a href="?nav=uploader">Brave Intel Reporter</a> right now. If this number drops down to <label class="label label-danger">0</label> no intel will get reported whatsoever.
+	    The uploader counter tells you how many people are running the <a href="?nav=uploader">Lone Star Intel Reporter</a> right now. If this number drops down to <label class="label label-danger">0</label> no intel will get reported whatsoever.
 	    <h6>Region</h6>
 	    The region dropdown lets you select which region you would like to see drawn as a map. Changing the region has no other consequences except a different map is drawn.
 	    <h6>Heatmap</h6>
@@ -30,11 +30,11 @@
 	    <h6>Legend</h6>
 	    Well, its a legend for the map. Take a look and make yourself familiar with the color coding being used.
 	    <h6>Map</h6>
-	    The map brings you back to the <a href="/">main view</a>. So does the BRAVE icon.
+	    The map brings you back to the <a href="/">main view</a>. So does the Lone Star Warriors icon.
 	    <h6>Bridges</h6>
 	    Export HERO and known hostile jumpbridges into 3rd party tools.
 	    <h6>Uploader</h6>
-	    The uploader provides you a download link and authentication token required for running the <a href="?nav=uploader">Brave Intel Reporter</a>.
+	    The uploader provides you a download link and authentication token required for running the <a href="?nav=uploader">Lone Star Intel Reporter</a>.
 	    <h6>&lt;Your Name&gt;</h6>
 	    The character name dropdown offers a link to change your application <a href="?nav=settings">settings</a> (background image, map behavior, audio customization) and an option to logout.
 	</li>
