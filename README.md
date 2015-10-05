@@ -1,10 +1,6 @@
 bravecollective-intel
 =====================
 
-Brave Intel Map
+Lone Star Intel Map
 
-Website: http://intel.bravecollective.com
-
-see demo.png
-
-For a compatible data uploader, checkout https://github.com/Serinus1/BraveReporter
+Website: https://intel.lone-star-warriors.com/
