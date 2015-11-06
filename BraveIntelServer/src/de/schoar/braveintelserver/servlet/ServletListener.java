@@ -39,8 +39,8 @@ public class ServletListener implements ServletContextListener {
 		analyzer.load();
 		systems.load();
 
-		reports.inject("kiu Nakamura",
-				"The Brave Intel Map server has been restarted. Sorry for the inconvenience...");
+		reports.inject("Lone Star IT",
+				"The Lone Star Intel Map server has been restarted. Sorry for the inconvenience...");
 
 		System.err.println("*** Started "
 				+ sce.getServletContext().getContextPath() + " ***");
